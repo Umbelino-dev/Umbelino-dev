@@ -28,13 +28,11 @@ Website of my studio: web development, visual identity and digital solutions for
 
 ### Stack
 
-| | |
-| :-- | :-- |
-| **Front-end** | TypeScript · React 19 · Next.js · TanStack Start · Tailwind CSS v4 · GSAP |
-| **Back-end & data** | Supabase · Oracle · SQL · PL/SQL |
-| **Platform** | Vercel · Cloudflare Workers · GitHub Actions |
-| **AI-assisted development** | Claude Code and coding agents, with project context files (`CLAUDE.md`, `AGENTS.md`) |
-| **Design** | UI, visual identity and branding through SOU Studio |
+**Front-end:** TypeScript · React 19 · Next.js · TanStack Start · Tailwind CSS v4 · GSAP<br>
+**Back-end & data:** Supabase · Oracle · SQL · PL/SQL<br>
+**Platform:** Vercel · Cloudflare Workers · GitHub Actions<br>
+**AI-assisted development:** Claude Code and coding agents, with project context files (`CLAUDE.md`, `AGENTS.md`)<br>
+**Design:** UI, visual identity and branding through SOU Studio
 
 ### Now
 
